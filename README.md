@@ -1,1 +1,0 @@
-# richardncs.github.io
