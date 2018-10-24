@@ -68,7 +68,7 @@ footer {
     text-align: center;
 }
 .welcome {     
-    background-image: linear-gradient(rgba(0,0,0, 0.7), rgba(0,0,0,0.7)), url("./blur-bokeh.jpg");
+    background-image: linear-gradient(rgba(0,0,0, 0.7), rgba(0,0,0,0.7)), url("blur-bokeh.jpg");
     color: white;
     height: 550px;
     padding: 205px 200px 50px 50px;
