@@ -21,17 +21,21 @@ h1, h2, h3, h4 {
 }
 
 header {
-    background-color: #c9d1d3;
-    color: white;
+    width: 100%;
+    position: fixed;
+    background-color: rgb(0, 0, 0);opacity:0.7;
+    color: gray;
     text-align: center;
     padding: 25px 24px;
-    height: 70px;
-    
+    height: 70px;    
     clear: both;
 }
 
-header nav {
+/*header nav {
   float: right;    
+}*/
+nav {
+  float: right;
 }
 
 nav ul li {
@@ -42,6 +46,7 @@ nav ul li {
 }
 
 nav ul {
+    margin-top: 20px;
     padding-left: 0px;
     margin-bottom: 10px; 
 }
